@@ -4,7 +4,79 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <lastmod>2017-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>None/resources/tools/</loc>
+     <lastmod>2017-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/resources/supplies/</loc>
+     <lastmod>2017-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/resources/machines/</loc>
+     <lastmod>2017-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/resources/software/</loc>
+     <lastmod>2017-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/resources/mentor/</loc>
+     <lastmod>2017-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/access/policies/</loc>
+     <lastmod>2017-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/access/safety/</loc>
+     <lastmod>2017-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/access/machineshop/</loc>
+     <lastmod>2017-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>None/tutorials/</loc>
+     <lastmod>2017-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/showcase/</loc>
+     <lastmod>2017-07-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     

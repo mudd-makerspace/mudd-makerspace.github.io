@@ -2,23 +2,103 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "HMC Makerspace\n\n\nAbout\n\n\nMudd Makerspace is a student-run makerspace that provides resources, funding and space for students to work on any project they choose. It has various tools, machines and hardware for prototyping needs. \n\n\nLocation\n\n\nParsons B132\n\n\nAccess\n\n\nTo gain 24-hour access to the Mudd Makerspace, you need to pass the \nsafety quiz\n.\n\n\nProject Storage\n\n\nIf you'd like to store projects you're working on in the Makerspace, please make sure to take the safety quiz and check out a storage space \nhere\n.\n\n\nRequest Funding\n\n\nTo request funding/get reimbursements, please \nemail\n the current Makerspace treasurer. \n\n\nMaker Sunday\n\n\nCome to Makerspace at B132 every Sunday at 1 p.m. to chat and ask questions!\n\n\nMailing List\n\n\nmudd-makerspace-l@g.hmc.edu\n\n\nContact\n\n\n\n  \n\n      \n\n        \nName\n\n        \nPosition\n\n        \nEmail Address\n\n      \n\n      \n\n      \n\n      \n\n        \nAndrew Bishop\n\n        \nPresident & Treasurer\n\n        \nabishop (at) hmc [dot] edu\n\n      \n\n        \n\n        \nElizabeth Poss\n\n        \nPresident\n\n        \neposs (at) hmc [dot] edu\n\n      \n\n      \n\n        \nJohn Lee\n\n        \nSupplies and Equipment Manager\n\n        \njohlee (at) hmc [dot] edu\n\n      \n\n      \n\n        \nJingnan Shi\n\n        \nWebpage Manager and Tutorials Lead\n\n        \njshi (at) hmc [dot] edu\n\n      \n\n      \n\n        \nIsabel Martos-Repath\n\n        \nOrganizational Manager\n\n        \nimartosrepath (at) hmc [dot] edu",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/#hmc-makerspace",
+            "text": "",
+            "title": "HMC Makerspace"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/#about",
+            "text": "Mudd Makerspace is a student-run makerspace that provides resources, funding and space for students to work on any project they choose. It has various tools, machines and hardware for prototyping needs.",
+            "title": "About"
         },
         {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/#location",
+            "text": "Parsons B132",
+            "title": "Location"
+        },
+        {
+            "location": "/#access",
+            "text": "To gain 24-hour access to the Mudd Makerspace, you need to pass the  safety quiz .",
+            "title": "Access"
+        },
+        {
+            "location": "/#project-storage",
+            "text": "If you'd like to store projects you're working on in the Makerspace, please make sure to take the safety quiz and check out a storage space  here .",
+            "title": "Project Storage"
+        },
+        {
+            "location": "/#request-funding",
+            "text": "To request funding/get reimbursements, please  email  the current Makerspace treasurer.",
+            "title": "Request Funding"
+        },
+        {
+            "location": "/#maker-sunday",
+            "text": "Come to Makerspace at B132 every Sunday at 1 p.m. to chat and ask questions!",
+            "title": "Maker Sunday"
+        },
+        {
+            "location": "/#mailing-list",
+            "text": "mudd-makerspace-l@g.hmc.edu",
+            "title": "Mailing List"
+        },
+        {
+            "location": "/#contact",
+            "text": "Name \n         Position \n         Email Address \n       \n       \n       \n       \n         Andrew Bishop \n         President & Treasurer \n         abishop (at) hmc [dot] edu \n       \n         \n         Elizabeth Poss \n         President \n         eposs (at) hmc [dot] edu \n       \n       \n         John Lee \n         Supplies and Equipment Manager \n         johlee (at) hmc [dot] edu \n       \n       \n         Jingnan Shi \n         Webpage Manager and Tutorials Lead \n         jshi (at) hmc [dot] edu \n       \n       \n         Isabel Martos-Repath \n         Organizational Manager \n         imartosrepath (at) hmc [dot] edu",
+            "title": "Contact"
+        },
+        {
+            "location": "/resources/tools/",
+            "text": "",
+            "title": "Tools"
+        },
+        {
+            "location": "/resources/supplies/",
+            "text": "",
+            "title": "Supplies"
+        },
+        {
+            "location": "/resources/machines/",
+            "text": "",
+            "title": "Machines"
+        },
+        {
+            "location": "/resources/software/",
+            "text": "",
+            "title": "Software"
+        },
+        {
+            "location": "/resources/mentor/",
+            "text": "",
+            "title": "Mentors"
+        },
+        {
+            "location": "/access/policies/",
+            "text": "",
+            "title": "Policies"
+        },
+        {
+            "location": "/access/safety/",
+            "text": "",
+            "title": "Safety Training"
+        },
+        {
+            "location": "/access/machineshop/",
+            "text": "",
+            "title": "HMC Student Machine Shop Training"
+        },
+        {
+            "location": "/tutorials/",
+            "text": "",
+            "title": "Tutorials"
+        },
+        {
+            "location": "/showcase/",
+            "text": "",
+            "title": "Projects Showcase"
         }
     ]
 }
