@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: HMC Makerspace
+theme_dir: cinder
+pages:
+- Home: index.md
+- Resources:
+    - Tools: resources/tools.md
+    - Supplies: resources/supplies.md
+    - Machines: resources/machines.md
+    - Software: resources/software.md
+    - Mentors: resources/mentor.md
+- Access:
+    - Policies: access/policies.md
+    - Safety Training: access/safety.md
+    - HMC Student Machine Shop Training: access/machineshop.md
+- Tutorials: tutorials.md
+- Projects Showcase: showcase.md
+    
