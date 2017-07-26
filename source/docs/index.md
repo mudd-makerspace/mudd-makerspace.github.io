@@ -2,7 +2,7 @@
 
 ## About
 
-Mudd Makerspace is a student-run makerspace that provides resources, funding and space for students to work on any project they choose. It has various tools, machines and hardware for prototyping needs. 
+The Mudd Makerspace is a student-run club for providing access to tools, resources, space, and storage to work on extra-curricular projects. We are dedicated to making this a space where all students feel comfortable working on a variety of projects, from electronics to sewing or artistic endeavours. In the makerspace, you can find sewing machines, drills, saws, soldering irons, electronics components, and space to use them all.
 
 ## Location
 
@@ -10,15 +10,15 @@ Parsons B132
 
 ## Access
 
-To gain 24-hour access to the Mudd Makerspace, you need to pass the [safety quiz](https://docs.google.com/a/g.hmc.edu/forms/d/e/1FAIpQLScihsQ5wtc3GV-zW5w6WOGtb7vl1P7nIXqP4Iok9Yu5wVRwIg/viewform?c=0&w=1).
+To gain 24-hour access to the Mudd Makerspace, you need to pass the [safety quiz](https://goo.gl/forms/xZQdCQUqr74EaqwV2).
 
 ## Project Storage
 
-If you'd like to store projects you're working on in the Makerspace, please make sure to take the safety quiz and check out a storage space [here](https://goo.gl/forms/4nVeUNEBi47iImvy1).
+If you'd like to store projects you're working on in the Makerspace, please make sure to take the safety quiz and check out a storage space [here]().
 
 ## Request Funding
 
-To request funding/get reimbursements, please [email](mailto:abishop@g.hmc.edu) the current Makerspace treasurer. 
+To get funding for a project, first fill out the [project proposal form](https://goo.gl/forms/mM0Ho2kkGnmzj9Jv1). Once that has been approved, you can either buy supplies yourself and [get reimbursed](https://goo.gl/forms/8Rb888cmWaUV7qaj2) or [request supplies](https://goo.gl/forms/a2Hki4hfWitAUHXq2).
 
 ## Maker Sunday
 
