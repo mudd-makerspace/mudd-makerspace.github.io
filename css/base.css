@@ -35,6 +35,9 @@ div.source-links {
  * Scrollspy and affixed enhanced navigation to highlight sections and secondary
  * sections of docs content.
  */
+.bs-sidebar {
+    opacity: 0.7;
+}
 
 /* By default it's not affixed in mobile views, so undo that */
 .bs-sidebar.affix {
