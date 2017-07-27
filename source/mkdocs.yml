@@ -5,13 +5,10 @@ pages:
 - Resources:
     - Tools: resources/tools.md
     - Supplies: resources/supplies.md
-    - Machines: resources/machines.md
+    - Projects: resources/project.md
     - Software: resources/software.md
     - Mentors: resources/mentor.md
-- Access:
-    - Policies: access/policies.md
-    - Safety Training: access/safety.md
-    - HMC Student Machine Shop Training: access/machineshop.md
+- Policies: policies.md
 - Tutorials: tutorials.md
-- Projects Showcase: showcase.md
+- Project Showcase: showcase.md
     

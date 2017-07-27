@@ -7,7 +7,7 @@ The Mudd Makerspace is a student-run club for providing access to tools, resourc
 
 ## Location
 
-Parsons B132
+Jacobs B132
 
 ## Access
 
