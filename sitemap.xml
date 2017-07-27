@@ -24,7 +24,7 @@
     </url>
         
     <url>
-     <loc>/resources/machines/</loc>
+     <loc>/resources/project/</loc>
      <lastmod>2017-07-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -44,25 +44,11 @@
     
 
     
-        
     <url>
-     <loc>/access/policies/</loc>
+     <loc>/policies/</loc>
      <lastmod>2017-07-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>/access/safety/</loc>
-     <lastmod>2017-07-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/access/machineshop/</loc>
-     <lastmod>2017-07-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
     
