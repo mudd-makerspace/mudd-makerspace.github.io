@@ -52,8 +52,18 @@
         }, 
         {
             "location": "/resources/tools/", 
-            "text": "", 
+            "text": "Makerspace Tools\n\n\nBefore using any tool, familiarize yourself with any relevant safety information. Here is a \nlink\n to a resource for safe use of all of the power tools. If you have any questions about any tool, contact a mentor or mudd-makerspace-leadership-l. We will also be running workshops to teach the basics on how to use the tools in the space. If there is a particular tool workshop you would like to see, contact mudd-makerspace-leadership-l.\n\n\nTool List\n\n\n\n\n\n\n\n\nTool\n\n\nLocation\n\n\n\n\n\n\n\n\n\n\nAngle grinder\n\n\nPower tool cabinet\n\n\n\n\n\n\nBench top power supply\n\n\nElectronics table\n\n\n\n\n\n\nBox cutters\n\n\nTool chest\n\n\n\n\n\n\nChannel locks\n\n\nTool chest\n\n\n\n\n\n\nChisels\n\n\nTool chest\n\n\n\n\n\n\nCircular saw\n\n\nPower tool cabinet\n\n\n\n\n\n\nCombination wrenches\n\n\nTool chest\n\n\n\n\n\n\nCorded drills\n\n\nPower tool cabinet\n\n\n\n\n\n\nCrescent wrenches\n\n\nTool chest\n\n\n\n\n\n\nCrosscut saw\n\n\nTool chest\n\n\n\n\n\n\nCrowbars\n\n\nTool chest\n\n\n\n\n\n\nDremels\n\n\nPower tool cabinet\n\n\n\n\n\n\nFiles\n\n\nTool chest\n\n\n\n\n\n\nHacksaw\n\n\nTool chest\n\n\n\n\n\n\nHammers\n\n\nTool chest\n\n\n\n\n\n\nHand jigsaw\n\n\nTool chest\n\n\n\n\n\n\nHex sets\n\n\nTool chest\n\n\n\n\n\n\nHole saws\n\n\nTool chest\n\n\n\n\n\n\nHot glue gun\n\n\nSupplies shelf\n\n\n\n\n\n\nImpact driver\n\n\nPower tool cabinet\n\n\n\n\n\n\nJigsaw\n\n\nPower tool cabinet\n\n\n\n\n\n\nLevel\n\n\nTool chest\n\n\n\n\n\n\nLiPo charging\n\n\nSupplies shelf\n\n\n\n\n\n\nMallets\n\n\nTool chest\n\n\n\n\n\n\nOscilloscope\n\n\nElectronics table\n\n\n\n\n\n\nPalm sanders\n\n\nPower tool cabinet\n\n\n\n\n\n\nPipe wrench\n\n\nTool chest\n\n\n\n\n\n\nPliers\n\n\nTool chest\n\n\n\n\n\n\nPortable drill\n\n\nPower tool cabinet\n\n\n\n\n\n\nReciprocating saw\n\n\nPower tool cabinet\n\n\n\n\n\n\nRouter\n\n\nPower tool cabinet\n\n\n\n\n\n\nScissors\n\n\nTool chest\n\n\n\n\n\n\nScrew drivers\n\n\nTool chest\n\n\n\n\n\n\nSocket set\n\n\nTool chest\n\n\n\n\n\n\nSolder pot\n\n\nElectronics table\n\n\n\n\n\n\nSoldering irons\n\n\nElectronics table\n\n\n\n\n\n\nSpeedsquare\n\n\nTool chest\n\n\n\n\n\n\nVise grips\n\n\nTool chest\n\n\n\n\n\n\nX-acto knives\n\n\nTool chest\n\n\n\n\n\n\n\n\nIf there are any tools that you think we need, contact mudd-makerspace-leadership-l", 
             "title": "Tools"
+        }, 
+        {
+            "location": "/resources/tools/#makerspace-tools", 
+            "text": "Before using any tool, familiarize yourself with any relevant safety information. Here is a  link  to a resource for safe use of all of the power tools. If you have any questions about any tool, contact a mentor or mudd-makerspace-leadership-l. We will also be running workshops to teach the basics on how to use the tools in the space. If there is a particular tool workshop you would like to see, contact mudd-makerspace-leadership-l.", 
+            "title": "Makerspace Tools"
+        }, 
+        {
+            "location": "/resources/tools/#tool-list", 
+            "text": "Tool  Location      Angle grinder  Power tool cabinet    Bench top power supply  Electronics table    Box cutters  Tool chest    Channel locks  Tool chest    Chisels  Tool chest    Circular saw  Power tool cabinet    Combination wrenches  Tool chest    Corded drills  Power tool cabinet    Crescent wrenches  Tool chest    Crosscut saw  Tool chest    Crowbars  Tool chest    Dremels  Power tool cabinet    Files  Tool chest    Hacksaw  Tool chest    Hammers  Tool chest    Hand jigsaw  Tool chest    Hex sets  Tool chest    Hole saws  Tool chest    Hot glue gun  Supplies shelf    Impact driver  Power tool cabinet    Jigsaw  Power tool cabinet    Level  Tool chest    LiPo charging  Supplies shelf    Mallets  Tool chest    Oscilloscope  Electronics table    Palm sanders  Power tool cabinet    Pipe wrench  Tool chest    Pliers  Tool chest    Portable drill  Power tool cabinet    Reciprocating saw  Power tool cabinet    Router  Power tool cabinet    Scissors  Tool chest    Screw drivers  Tool chest    Socket set  Tool chest    Solder pot  Electronics table    Soldering irons  Electronics table    Speedsquare  Tool chest    Vise grips  Tool chest    X-acto knives  Tool chest     If there are any tools that you think we need, contact mudd-makerspace-leadership-l", 
+            "title": "Tool List"
         }, 
         {
             "location": "/resources/supplies/", 
@@ -72,8 +82,18 @@
         }, 
         {
             "location": "/resources/mentor/", 
-            "text": "", 
+            "text": "Makerspace Mentors\n\n\nMentors are students who have signed up to be resources for other students with projects in their areas of expertise. A full list can be found on the website, or the door to the makerspace.\nIf you are interested in becoming a mentor, email mudd-makerspace-leadership-l.\n\n\nMentor list\n\n\n| Name | I'm good at... | email\n  \n_ | \n_\n_ | \n___\nAndrew Bishop | Electronics, Woodworking | abishop (at) hmc [dot] edu\nElizabeth Poss | Electronics, Organization | eposs (at) hmc [dot] edu\nIsabel Martos-Repath | Sewing, Machining, Arts and crafts stuff|    imartosrepath (at) hmc [dot] edu\nHamzah Khan     |Electronics, programming   |hikhan (at) hmc [dot] edu \nHamza Khan  |Electronics, programming   |hkhan (at) hmc [dot] edu\nDuncan Crowley  |Skateboard making/wood working, electronics, project planning  |dcrowley (at) hmc [dot] edu\nJingnan Shi |Electronics, programming   |jshi (at) hmc [dot] edu", 
             "title": "Mentors"
+        }, 
+        {
+            "location": "/resources/mentor/#makerspace-mentors", 
+            "text": "Mentors are students who have signed up to be resources for other students with projects in their areas of expertise. A full list can be found on the website, or the door to the makerspace.\nIf you are interested in becoming a mentor, email mudd-makerspace-leadership-l.", 
+            "title": "Makerspace Mentors"
+        }, 
+        {
+            "location": "/resources/mentor/#mentor-list", 
+            "text": "| Name | I'm good at... | email\n   _ |  _ _ |  ___\nAndrew Bishop | Electronics, Woodworking | abishop (at) hmc [dot] edu\nElizabeth Poss | Electronics, Organization | eposs (at) hmc [dot] edu\nIsabel Martos-Repath | Sewing, Machining, Arts and crafts stuff|    imartosrepath (at) hmc [dot] edu\nHamzah Khan     |Electronics, programming   |hikhan (at) hmc [dot] edu \nHamza Khan  |Electronics, programming   |hkhan (at) hmc [dot] edu\nDuncan Crowley  |Skateboard making/wood working, electronics, project planning  |dcrowley (at) hmc [dot] edu\nJingnan Shi |Electronics, programming   |jshi (at) hmc [dot] edu", 
+            "title": "Mentor list"
         }, 
         {
             "location": "/policies/", 
