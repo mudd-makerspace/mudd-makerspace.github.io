@@ -60,13 +60,11 @@ On this page, you will find information on how to use the makerspace. These rule
 * Put down paper (found in the back of the makerspace) to protect the ground from paint.
 * It is your responsibility to research chemicals you are using, and use them outside if they pose any danger- the makerspace has no ventilation (even in the spray booth), so please err on the safe side.
 
-### Spray Booth
+### Spray Booth and MARC/Rocketry
 
 * The spray booth is not currently operational because the filters need changing. If you want to use this, please talk to Penny Manisco in the Chemistry Department. She can be found in Jacobs 2314, or at pmanisco (a) hmc [dot] edu
 
-### MARC/Rocketry
-
-* If you want to use this, it is fully your responsibility to get trained, arrange the safe use of equipment, and notify relevant parties: makerspace leadership (mudd-makerspace-l), Penny Manisco (pmanisco (at) hmc [dot] edu), Theresa Lauer (tlauer (at) hmc [dot] edu), and Prof Spjut (spjut (at) hmc [dot] edu). Logistical and safety arrangements must be made with, and approved by them. When and if you have their approval, we will give you the key to the MARC and rocketry equipment. Otherwise it is to remain locked for the safety of everyone using the makerspace.
+* If you want to use the rocketry equipment, it is fully your responsibility to get trained, arrange the safe use of equipment, and notify relevant parties: makerspace leadership (mudd-makerspace-l), Penny Manisco (pmanisco (at) hmc [dot] edu), Theresa Lauer (tlauer (at) hmc [dot] edu), and Prof Spjut (spjut (at) hmc [dot] edu). Logistical and safety arrangements must be made with, and approved by them. When and if you have their approval, we will give you the key to the MARC and rocketry equipment. Otherwise it is to remain locked for the safety of everyone using the makerspace.
 
 ### Consequences
 
