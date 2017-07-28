@@ -1,6 +1,6 @@
 #Makerspace Tools
 
-Before using any tool, familiarize yourself with any relevant safety information. Here is a [link](http://powertoolinstitute.com/pti-pages/ed-tool-specific.asp) to a resource for safe use of all of the power tools. If you have any questions about any tool, contact a mentor or mudd-makerspace-leadership-l. We will also be running workshops to teach the basics on how to use the tools in the space. If there is a particular tool workshop you would like to see, contact mudd-makerspace-leadership-l.
+Before using any tool, familiarize yourself with any relevant safety information. Here is a [link](http://powertoolinstitute.com/pti-pages/ed-tool-specific.asp) to a resource for information on the safe use of all of the power tools. Please read over the relevant sections before using the tools. If you have any questions about any tool, contact a mentor or mudd-makerspace-leadership-l. We will also be running workshops to teach the basics on how to use the tools in the space. If there is a particular tool workshop you would like to see, contact mudd-makerspace-leadership-l.
 
 ##Tool List
 | Tool | Location |
