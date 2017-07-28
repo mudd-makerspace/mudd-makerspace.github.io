@@ -109,15 +109,3 @@ On this page, you will find information on how to use the makerspace. These rule
 * When you take a tool out of the makerspace, sign the tool out with the tool checkout sheet on the door.
 * All tools must be returned within one week of checking them out. If you are still using it, you may check it out again.
 
-## Resources
-
-Check out the resources tab above for more information.
-
-### Mentors
-
-Mentors are students who have signed up to be resources for other students with projects in their areas of expertise. A full list can be found under the mentors tab, or the door to the makerspace.
-If you are interested in becoming a mentor, email mudd-makerspace-leadership-l.
-
-### Office Hours
-
-We hold office hours every Sunday, 1 PM - 4 PM, with email reminders about the time. There is a probability of there being snacks. Makerspace leadership and mentors will be available for answer questions about projects or the makerspace in general.
