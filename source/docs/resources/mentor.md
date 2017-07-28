@@ -14,3 +14,5 @@ If you are interested in becoming a mentor, email mudd-makerspace-leadership-l.
 |Hamza Khan	|Electronics, programming	|hkhan (at) hmc [dot] edu
 |Duncan Crowley	|Skateboard making/wood working, electronics, project planning	|dcrowley (at) hmc [dot] edu
 |Jingnan Shi	|Electronics, programming	|jshi (at) hmc [dot] edu
+| Valerie Kwee | Sewing, clay, graphic design, paper crafts | vkwee (at) hmc [dot] edu
+
