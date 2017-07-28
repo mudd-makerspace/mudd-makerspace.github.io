@@ -1,8 +1,7 @@
 #HMC Makerspace
-
+<img style="float:right;width:100%" src="./Makerspace.jpg">
 ## About
 
-![The Mudd Makerspace](/images/muddMakerspace.jpg)
 The Mudd Makerspace is a student-run club for providing access to tools, resources, space, and storage to work on extra-curricular projects. We are dedicated to making this a space where all students feel comfortable working on a variety of projects, from electronics to sewing or artistic endeavours. In the makerspace, you can find sewing machines, drills, saws, soldering irons, electronics components, and space to use them all.
 
 ## Location
