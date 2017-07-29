@@ -1,5 +1,3 @@
-<img style="float:right;width:100%" src="Makerspace.jpg">
-
 #HMC Makerspace
 ## About
 
