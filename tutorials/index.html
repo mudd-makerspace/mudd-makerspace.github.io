@@ -9,6 +9,8 @@
 
     <title>Tutorials - HMC Makerspace</title>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.theme.default.min.css" />
     <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.018/css/hack.min.css">
@@ -17,6 +19,9 @@
     <link href="../css/base.css" rel="stylesheet">
     <link href="../css/cinder.css" rel="stylesheet">
     <link rel="stylesheet" href="../css/highlight.css">
+
+
+    <link href="../extra.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -37,6 +42,9 @@
 </head>
 
 <body>
+
+  
+  
 
     <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
@@ -156,14 +164,19 @@
 
     <div class="container">
         
-        <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+	
+        <div class="col-md-3">
+          
+          <div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
     </ul>
-</div></div>
+</div>  
+        </div>
         <div class="col-md-9" role="main">
 
 </div>
+	
         
     </div>
 
@@ -210,6 +223,24 @@
         </div>
     </div>
 
-    </body>
+<script src="http://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
+
+<script>
+$(document).ready(function(){
+  $(".owl-carousel").owlCarousel({
+	items:1,
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:5000,
+    autoplayHoverPause:true
+}
+
+);
+});
+</script>
+
+</body>
 
 </html>

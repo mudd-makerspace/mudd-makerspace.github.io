@@ -9,6 +9,8 @@
 
     <title>HMC Makerspace</title>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.theme.default.min.css" />
     <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.018/css/hack.min.css">
@@ -17,6 +19,9 @@
     <link href="./css/base.css" rel="stylesheet">
     <link href="./css/cinder.css" rel="stylesheet">
     <link rel="stylesheet" href="./css/highlight.css">
+
+
+    <link href="./extra.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -37,6 +42,14 @@
 </head>
 
 <body class="homepage" >
+
+  
+  
+  <!--img style="float:right;width:100%;padding-bottom:20px" src="Makerspace_cropped.jpg"-->
+  <div class="makerspacetitle midtitletext">
+  <h2>Mudd Makerspace</h2>
+  </div>
+  
 
     <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
@@ -153,43 +166,11 @@
         </div>
     </div>
 </div>
-<p><img style="float:right;width:100%" src="Makerspace.jpg"></p>
 
     <div class="container">
         
-        <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-    
-        <li class="first-level active"><a href="#hmc-makerspace">HMC Makerspace</a></li>
-        
-            <li class="second-level"><a href="#about">About</a></li>
-            
-        
-            <li class="second-level"><a href="#location">Location</a></li>
-            
-        
-            <li class="second-level"><a href="#access">Access</a></li>
-            
-        
-            <li class="second-level"><a href="#project-storage">Project Storage</a></li>
-            
-        
-            <li class="second-level"><a href="#request-funding">Request Funding</a></li>
-            
-        
-            <li class="second-level"><a href="#maker-sunday">Maker Sunday</a></li>
-            
-        
-            <li class="second-level"><a href="#mailing-list">Mailing List</a></li>
-            
-        
-            <li class="second-level"><a href="#contact">Contact</a></li>
-            
-        
-    
-    </ul>
-</div></div>
-        <div class="col-md-9" role="main">
+	
+	<div class="col-md-12" role="main"> 
 
 <h1 id="hmc-makerspace">HMC Makerspace</h1>
 <h2 id="about">About</h2>
@@ -243,6 +224,7 @@
       </tr>
   </tbody>
 </table></div>
+	
         
     </div>
 
@@ -289,11 +271,29 @@
         </div>
     </div>
 
-    </body>
+<script src="http://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
+
+<script>
+$(document).ready(function(){
+  $(".owl-carousel").owlCarousel({
+	items:1,
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:5000,
+    autoplayHoverPause:true
+}
+
+);
+});
+</script>
+
+</body>
 
 </html>
 
 <!--
-MkDocs version : 0.16.3
-Build Date UTC : 2017-07-28 07:53:59
+MkDocs version : 0.14.0
+Build Date UTC : 2017-07-29 06:55:51.141823
 -->
