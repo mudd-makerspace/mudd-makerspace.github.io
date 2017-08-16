@@ -1,0 +1,3 @@
+tape	shelf
+woood	back
+flammables	cabinet
