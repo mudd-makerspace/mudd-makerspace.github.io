@@ -1,3 +1,0 @@
-item	place
-tape	shelf
-more	stuff
