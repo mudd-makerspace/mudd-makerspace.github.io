@@ -39,6 +39,7 @@ On this page, you will find information on how to use the makerspace. These rule
 * Personal protective equipment is stored throughout the makerspace. Safety glasses are located on the front shelving unit, and near the computer and sewing machine. 
 * A face shield is found on the front shelving unit. 
 * Hearing protection ear muffs (not the fuzzy kind) are located on the front shelving unit. Use them as appropriate, and whenever anyone in the space is using a power tool.
+* Latex gloves are available for using epoxies, wood stain, and other messy things. Do not wear gloves when using power tools.
 
 ### Power Tools
 
@@ -78,6 +79,7 @@ On this page, you will find information on how to use the makerspace. These rule
 ### Computer
 
 * Please ask before downloading especially large files.
+* There is an Oculus Rift connected to the computer; this is available for students looking to develop games for it.
 * Use of the computer for gaming or other frivolous purposes is not prohibited, but comes second to anyone else attempting to use it for an academic or nonacademic project. If this becomes an issue gaming, etc. will become prohibited. Make sure you logout of facebook or any other accounts when you are done working.
 * Be aware of students around and the danger they or their equipment may pose to you. You are required to wear safety glasses if anyone is using power tools.
 * Please don’t use this computer for piracy or inappropriate content. 
@@ -95,6 +97,7 @@ On this page, you will find information on how to use the makerspace. These rule
 * There is a water bottle to keep sponges wet for soldering. There are also sinks down the hall.
 * Be aware that some solder has lead. Don’t eat it. Use the smoke absorber to reduce fumes.
 * Don’t leave soldering irons on if they are not being used. Please coat the tips in solder when you are done to prevent them from oxidizing.
+* If you are going to use a significant number of a single component, fill out a project reimbursement request rather than emptying our common supplies.
 
 ### Main Table
 
