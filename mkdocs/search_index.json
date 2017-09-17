@@ -212,8 +212,18 @@
         },
         {
             "location": "/showcase/",
-            "text": "",
+            "text": "2017 Fall\n\n\nMirror, by Valerie Kwee\n\n\nValerie made a mirror with dynamic LED lighting during the summer.She used a circle saw to cut the wood base and used cement glue to attach smaller blocks of wood to frame an octagonal mirror. She lined the smaller blocks with an LED strip. Then, she cut out an acrylic sheet the same size as the wood base and lined it with a one-way mirror sticker. Then she used glued the sheet to the wood frame parallel to the mirror, about 1 inch away.",
             "title": "Project Showcase"
+        },
+        {
+            "location": "/showcase/#2017-fall",
+            "text": "",
+            "title": "2017 Fall"
+        },
+        {
+            "location": "/showcase/#mirror-by-valerie-kwee",
+            "text": "Valerie made a mirror with dynamic LED lighting during the summer.She used a circle saw to cut the wood base and used cement glue to attach smaller blocks of wood to frame an octagonal mirror. She lined the smaller blocks with an LED strip. Then, she cut out an acrylic sheet the same size as the wood base and lined it with a one-way mirror sticker. Then she used glued the sheet to the wood frame parallel to the mirror, about 1 inch away.",
+            "title": "Mirror, by Valerie Kwee"
         }
     ]
 }
