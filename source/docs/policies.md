@@ -36,9 +36,9 @@ On this page, you will find information on how to use the makerspace. These rule
 
 ### PPE
 
-* Personal protective equipment is stored throughout the makerspace. Safety glasses are located on the front shelving unit, and near the computer and sewing machine. 
-* A face shield is found on the front shelving unit. 
-* Hearing protection ear muffs (not the fuzzy kind) are located on the front shelving unit. Use them as appropriate, and whenever anyone in the space is using a power tool.
+* Personal protective equipment is stored throughout the makerspace. Safety glasses are located on the front shelving unit, and near the computer and sewing machine. Wear safety glasses whenever anyone in the makerspace is using power tools.
+* A face shield and dust masks are found on the front shelving unit.
+* Hearing protection ear muffs (not the fuzzy kind) are located on the front shelving unit. Use them as appropriate.
 * Latex gloves are available for using epoxies, wood stain, and other messy things. Do not wear gloves when using power tools.
 
 ### Power Tools
@@ -46,7 +46,7 @@ On this page, you will find information on how to use the makerspace. These rule
 * To access power tools, you must first pass an [additional safety quiz](https://goo.gl/forms/hJhWEqKHfBNOOQpp2), testing particular knowledge of all of the tools in the cabinet. You will then be given the combination to the cabinet.
 * It is an honor code violation to share the combination with anyone who has not passed the power tool safety quiz. Do not share it.
 * Power tools will be marked with fluorescent spray paint, denoting that they belong in the cabinet. Put them back in the cabinet when you are done.
-* Read the standard operating procedures for any tool before you use it. Be sure you know exactly how the tool works and all of the ways it can hurt you or those around you.
+* Read the standard operating procedures for any tool before you use it. Be sure you know exactly how the tool works and all of the ways it can hurt you or those around you. Always wear close-toed shoes, safety glasses, and never loose or dangling clothing.
 * Power tools must be used with a buddy (who does not need to have passed the power tool quiz, but who does need to have passed the general safety quiz, and must be sober and able to assist in an emergency) whether in the makerspace or not.
 * You are responsible for the tool the entire time it is out of the cabinet, and it must be put back into the cabinet as soon as you are done with it.
 
