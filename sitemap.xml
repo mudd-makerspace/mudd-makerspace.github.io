@@ -3,8 +3,8 @@
 
     
     <url>
-     <loc>/</loc>
-     <lastmod>2017-09-21</lastmod>
+     <loc>None/</loc>
+     <lastmod>2018-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,32 +12,32 @@
     
         
     <url>
-     <loc>/resources/tools/</loc>
-     <lastmod>2017-09-21</lastmod>
+     <loc>None/resources/tools/</loc>
+     <lastmod>2018-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/resources/supplies/</loc>
-     <lastmod>2017-09-21</lastmod>
+     <loc>None/resources/supplies/</loc>
+     <lastmod>2018-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/resources/project/</loc>
-     <lastmod>2017-09-21</lastmod>
+     <loc>None/resources/project/</loc>
+     <lastmod>2018-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/resources/software/</loc>
-     <lastmod>2017-09-21</lastmod>
+     <loc>None/resources/software/</loc>
+     <lastmod>2018-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/resources/mentor/</loc>
-     <lastmod>2017-09-21</lastmod>
+     <loc>None/resources/mentor/</loc>
+     <lastmod>2018-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -45,24 +45,32 @@
 
     
     <url>
-     <loc>/policies/</loc>
-     <lastmod>2017-09-21</lastmod>
+     <loc>None/policies/</loc>
+     <lastmod>2018-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/tutorials/</loc>
-     <lastmod>2017-09-21</lastmod>
+     <loc>None/tutorials/</loc>
+     <lastmod>2018-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/showcase/</loc>
-     <lastmod>2017-09-21</lastmod>
+     <loc>None/showcase/</loc>
+     <lastmod>2018-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/project-files/2017-fall/wok/wok_description/</loc>
+     <lastmod>2018-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
