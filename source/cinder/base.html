@@ -11,7 +11,11 @@
     <link rel="shortcut icon" href="{{ base_url }}/{{ favicon }}">{% else %}
     <link rel="shortcut icon" href="{{ base_url }}/img/favicon.ico">{% endif %}
 
-    <title>{% if page_title %}{{ page_title }} - {% endif %}{{ site_name }}</title>
+    <title>{% if page_title %}
+		{% if page_title != 'hidden'%}
+		    {{ page_title }} - 
+		{% endif %}
+	   {% endif %}{{ site_name }}</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.theme.default.min.css" />
@@ -73,14 +77,15 @@
   </div>
   {% endif %}
 
-    {% include "nav.html" %}
+      {% include "nav.html" %}
 
     <div class="container">
         {% block content %}
 	{% if current_page and not current_page.is_homepage %}
         <div class="col-md-3">
           {# Include TOC only not at homepage #}
-          {% include "toc.html" %}  
+          {% include "toc.html" %} 
+           
         </div>
         <div class="col-md-9" role="main">{% include "content.html" %}</div>
 	{% else %}

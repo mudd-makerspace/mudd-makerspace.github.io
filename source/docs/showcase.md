@@ -8,3 +8,16 @@ Valerie made a mirror with dynamic LED lighting during the summer. She used a ci
   poster="../project-files/2017-fall/mirror/Chi.jpg" data-setup="{}">
     <source src="../project-files/2017-fall/mirror/video.mp4" type='video/mp4'>
   </video>
+  
+### Modifying a Portable Gas Stove for Use With a Wok, by Ryan Gibbs
+
+Ryan modified a portable gas stove so that it can be used with a wok efficiently. Ryan made a flame focus ring using stainless steel pastry rings he purchased online. For a complete description, see [here](../project-files/2017-fall/wok/wok_description/).
+
+![Wok Picture](../project-files/2017-fall/wok/wok.png)
+
+### EDC, by Ben Baral
+Ben built a bar for his dorm using more than 30 feet of 2x4s, some plywood, caster wheels, and chalkboard panels from Lowe's. The only tools used were a chop saw, a cordless drill, and a table saw. First, he made the frame by cutting consistent lengths of wood on the chop saw, then he drilled the frame together, then he cut the panels to size and attached them. It's pretty sturdy, though not completely square due to warp in the 2x4s.
+
+![EDC Picture 1](../project-files/2017-fall/EDC/edc_1.jpg)
+
+![EDC Picture 2](../project-files/2017-fall/EDC/edc_2.jpg)
