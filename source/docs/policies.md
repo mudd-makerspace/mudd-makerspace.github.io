@@ -8,9 +8,10 @@ On this page, you will find information on how to use the makerspace. These rule
 
 ### Reimbursements
 
-* We offer $100 per person, per project. Funding approval is determined with the [project petition form](https://goo.gl/forms/mM0Ho2kkGnmzj9Jv1). If you do not receive approval with this form, reimbursement is not guaranteed. As an individual, you may only have funding for one project at a time. Team projects must verify that all members listed are active participants. You may receive funding for an individual project and a group project at the same time, but all project funding remains at the leadership’s discretion.
+* We offer $100 per person, per project. For a single project, the maximum allowed funding is $300. Funding approval is determined with the [project petition form](https://goo.gl/forms/mM0Ho2kkGnmzj9Jv1). If you do not receive approval with this form, reimbursement is not guaranteed. As an individual, you may only have funding for one project at a time. Team projects must verify that all members listed are active participants. You may receive funding for an individual project and a group project at the same time, but all project funding remains at the leadership’s discretion.
 * A project is viewed as completed when you deliver an (informal) write-up with pictures and information about your project, to be displayed on the website and to help future makers. 
 * When there are parts that you want to buy for a project, either buy them yourself and fill out the [reimbursement form](https://goo.gl/forms/8Rb888cmWaUV7qaj2), or if you don’t want to buy materials directly and get reimbursed, fill out the [materials request form](https://goo.gl/forms/a2Hki4hfWitAUHXq2). If you have any questions, contact makerspace-leadership-l. 
+* We will not fund projects that are mandatory for a course (notably extensions of E4, E11, E80, E155 and clinic projects). All other cases (ie. projects that are continuations or prerequisites of work done for a course) will be looked at on a case by case basis.
 
 ### Storage 
 
@@ -24,7 +25,6 @@ On this page, you will find information on how to use the makerspace. These rule
 * We do not allow projects which cannot be returned to storage (either in the space or outside of it) after every use, nor do we allow projects which damage the space.
 * Do not use the makerspace for projects for which this room is not appropriate- this includes projects with large quantities of machine grease, paint, food, fumes which pose safety risks, electrical hazards, plants, beads, or glitter.
 * All projects must follow ASHMC bylaws for use of funding. 
-
 
 ## Safety
 
@@ -48,7 +48,9 @@ On this page, you will find information on how to use the makerspace. These rule
 * Power tools will be marked with fluorescent spray paint, denoting that they belong in the cabinet. Put them back in the cabinet when you are done.
 * Read the standard operating procedures for any tool before you use it. Be sure you know exactly how the tool works and all of the ways it can hurt you or those around you. Always wear close-toed shoes, safety glasses, and never loose or dangling clothing.
 * Power tools must be used with a buddy (who does not need to have passed the power tool quiz, but who does need to have passed the general safety quiz, and must be sober and able to assist in an emergency) whether in the makerspace or not.
+* We are encouraging people who use power tools without a buddy to self-report.
 * You are responsible for the tool the entire time it is out of the cabinet, and it must be put back into the cabinet as soon as you are done with it.
+* We are not allowing power tools to be checked out of the space.
 
 ### Flammables Cabinet
 
