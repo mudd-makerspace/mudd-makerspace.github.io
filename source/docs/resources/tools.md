@@ -2,6 +2,23 @@
 
 Before using any tool, familiarize yourself with any relevant safety information. Here is a [link](http://powertoolinstitute.com/pti-pages/ed-tool-specific.asp) to a resource for information on the safe use of all of the power tools. Please read over the relevant sections before using the tools. If you have any questions about any tool, contact a mentor or mudd-makerspace-leadership-l. We will also be running workshops to teach the basics on how to use the tools in the space. If there is a particular tool workshop you would like to see, contact mudd-makerspace-leadership-l.
 
+## Rapid Prototyping (3D Printing)
+
+We have a [Ulitmaker 2 Extender+](https://ultimaker.com/en/products/ultimaker-2-plus) 3D printer for rapid prototyping needs. 
+
+
+### How to Start a Print
+
+We use a Google calendar to manage the print process. [Here](
+https://calendar.google.com/calendar?cid=Zy5obWMuZWR1X3Z0bGQxNTJqcnA0bGdjbTVhb3I1OTFwb29zQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)  is the calendar. Notice that it requires a Harvey Mudd College email address.
+
+Before starting the print, you should make a calendar event with the approximate time of your print, and your name and a contact phone number. That way if someone else sees that your print has failed they can contact you, and people will know when they can print. Do not block out time for future prints- fill in time once you have started your print, but don't sign up for future times that you may or may not show up for.
+
+The printer requires its own software to run, found [here](https://ultimaker.com/en/products/ultimaker-cura-software). There you will need to pick the nozzle diameter (currently 0.8 mm) and material (PLA). It needs to be exported to an SD card (there is one at the printer). Then, put some of the glue on the build plate to get your print to stick. Without this, it may come detached while printing and fail. **For safety reasons, we are limiting the printer to PLA filament. **We have a large quantity of stock filament that you are welcome to use- if you want to buy your own filament, please check with us to make sure it's a compatible type with safer fumes.
+
+### Print Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=g.hmc.edu_vtld152jrp4lgcm5aor591poos%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ##Tool List
 | Tool | Location |
 --- | ---- 
