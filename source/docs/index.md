@@ -65,3 +65,6 @@ mudd-makerspace-l@g.hmc.edu
 	  </tr>
   </tbody>
 </table>
+
+## Noticed something wrong?
+The source code of this site is hosted on [Github](https://github.com/mudd-makerspace/mudd-makerspace.github.io/tree/develop). Feel free to create a pull request if you noticed any typos. 
