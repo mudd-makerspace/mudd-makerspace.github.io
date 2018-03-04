@@ -1,3 +1,17 @@
+## 2018 Spring
+
+### Copper Electroplating by Kathryn Chan
+
+Kathryn Chan was inspired to do this project from the jewelry made by Enchanted Leaves, and used their resources page as a guide. She collected leaves from around the campus, and electroplated them. The final results look amazing! For a detailed description, see [here](../project-files/2018-spring/copperplating/copper-electroplating).
+
+![Electroplated Leaves](../project-files/2018-spring/copperplating/leaves-final.png)
+
+### Cute Compute Cluster, by Kalani Duran, Adam Grobman, Katharine Larsen and Kaveh Pezeshki
+
+The goal of this project was to provide the team with a simple physical distributed computing platform for education. They wanted experience writing algorithms that can take advantage of multiple cores over a (very) slow interconnect. Additionally, it provided experience with surface-mount soldering, as the board included tight-pitch QFP ICs as well as many 0402 capacitors and resistors. For a detailed project description, see [here](../project-files/2018-spring/cute-compute-cluster/ccc).
+
+![CCC Picture](../project-files/2018-spring/cute-compute-cluster/final.png)
+
 ## 2017 Fall
 
 ### Mirror, by Valerie Kwee
