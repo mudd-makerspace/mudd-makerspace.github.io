@@ -16,9 +16,6 @@ Before starting the print, you should make a calendar event with the approximate
 
 The printer requires its own software to run, found [here](https://ultimaker.com/en/products/ultimaker-cura-software). There you will need to pick the nozzle diameter (currently 0.8 mm) and material (PLA). It needs to be exported to an SD card (there is one at the printer). Then, put some of the glue on the build plate to get your print to stick. Without this, it may come detached while printing and fail. **For safety reasons, we are limiting the printer to PLA filament. **We have a large quantity of stock filament that you are welcome to use- if you want to buy your own filament, please check with us to make sure it's a compatible type with safer fumes.
 
-### Print Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=g.hmc.edu_vtld152jrp4lgcm5aor591poos%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ##Tool List
 | Tool | Location |
 --- | ---- 
