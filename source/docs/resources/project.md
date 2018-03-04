@@ -12,7 +12,7 @@ Since project reimbursements come from ASHMC, all projects must comply with the 
 
 ## Store your project
 
-If your project is too big to carry back and forth from your dorm room, you can check out a storage space in the makerspace using [this form(https://goo.gl/forms/BhR0atpDZaVXY37I2). If you are storing things in the space, you can only check out one shelf, and your project must fit entirely within that shelf. Storage lasts for one year, and all projects must be removed over the summer. If you finish your project before the end of the year, please move it out of the space to free up the shelf.
+If your project is too big to carry back and forth from your dorm room, you can check out a storage space in the makerspace using [this form](https://goo.gl/forms/BhR0atpDZaVXY37I2). If you are storing things in the space, you can only check out one shelf, and your project must fit entirely within that shelf. Storage lasts for one year, and all projects must be removed over the summer. If you finish your project before the end of the year, please move it out of the space to free up the shelf.
 
 Because of the nature of the space, we can't provide storage for all projects. If your project is too large and doesn't fit on a shelf, talk to makerspace leadership and we will work with you to find another storage option. If you are storing flammables for your project, we can store these parts in the fire safe. Talk with leadership about getting access to the safe. If you are storing other hazardous chemicals, check with leadership before storing them in the space.
 
