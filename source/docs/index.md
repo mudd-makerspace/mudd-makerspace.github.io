@@ -19,6 +19,9 @@ If you'd like to store projects you're working on in the Makerspace, please make
 
 To get funding for a project, first fill out the [project proposal form](https://goo.gl/forms/mM0Ho2kkGnmzj9Jv1). Once that has been approved, you can either buy supplies yourself and [get reimbursed](https://goo.gl/forms/8Rb888cmWaUV7qaj2) or [request supplies](https://goo.gl/forms/a2Hki4hfWitAUHXq2).
 
+## Report Injuries
+Please report any injury by filling out this [form](https://goo.gl/forms/geQyD0PWXY2NuAef1). By using this information we can better improve the safety of the space. 
+
 ## Maker Sunday
 
 Come to Makerspace at B132 every Sunday at 1 p.m. to chat and ask questions!

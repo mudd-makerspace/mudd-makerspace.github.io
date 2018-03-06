@@ -29,6 +29,7 @@ On this page, you will find information on how to use the makerspace. These rule
 ## Safety
 
 * Take the [safety quiz](https://goo.gl/forms/xZQdCQUqr74EaqwV2) to gain access, and read this document in full.
+* Please report any injury by filling out this [form](https://goo.gl/forms/geQyD0PWXY2NuAef1). By using this information we can better improve the safety of the space. 
 * Check in on the sheet outside the door, and check out when you leave.
 * Be aware of the space around you whenever you or anyone else is working.
 * Do not leave anything (tools or materials) in the common space when you leave the room. Leave the space as clean as you found it, and please clean any messes you find.
