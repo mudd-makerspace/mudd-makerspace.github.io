@@ -1,8 +1,14 @@
 ## 2018 Spring
 
+### South Table by Andrew Bishop, Elizabeth Poss and Nancy Wei 
+
+Many games played around tables at South involve students in standing in a circle. This is a problem because all of the tables have corners, and players at the corner are usually at a disadvantage. Andrew Bishop, Elizabeth Poss and Nancy Wei designed and built a table to solve this problem. For a detailed description, see [here](../project-files/2018-spring/south-table/south-table).
+
+![South Table](../project-files/2018-spring/south-table/TableFinal.JPG)
+
 ### Biometric Lock by Jenny Smith
 
-Jenny Smith wanted to make a biometric lock because she can never find her key and is alwasy carrying things when she walks up to her door. THe final product looks awesome. For a deailted description, see [here](../project-files/2018-spring/biometric-lock/biometric-details).
+Jenny Smith wanted to make a biometric lock because she can never find her key and is alwasy carrying things when she walks up to her door. THe final product looks awesome. For a detailed description, see [here](../project-files/2018-spring/biometric-lock/biometric-details).
 
 ![Biometric Lock](../project-files/2018-spring/biometric-lock/image016.jpg)
 
