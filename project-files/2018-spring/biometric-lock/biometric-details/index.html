@@ -169,12 +169,12 @@
                 </li>
                 
                     <li >
-                        <a rel="next" href="../../cute-compute-cluster/ccc/">
+                        <a rel="next" href="../../copperplating/copper-electroplating/">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
                     <li >
-                        <a rel="prev" href="../../biometric-lock/biometric-details/">
+                        <a rel="prev" href="../../south-table/south-table/">
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -193,26 +193,29 @@
           <div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="first-level active"><a href="#copper-electroplating-leaves-by-kathryn-chan">Copper Electroplating Leaves, by Kathryn Chan</a></li>
-        
-    
     </ul>
 </div> 
            
         </div>
         <div class="col-md-9" role="main">
 
-<h1 id="copper-electroplating-leaves-by-kathryn-chan">Copper Electroplating Leaves, by Kathryn Chan</h1>
-<p>I was inspired to do this project from the jewelry made by Enchanted Leaves, and used their resources page as a guide.</p>
-<p>I collected leaves from around campus and pressed them between the pages of a book for a week to let them dry. After this, I coated the leaves with a layer of polyurethane, glued a small copper jump ring to one end, and coated each with a layer of carbon graphite paint.</p>
-<p>For the electroplating solution, we dissolved 150g of copper sulfate crystals into a solution of 30mL 98% sulfuric acid that was diluted to 750mL. We hung the piece with a segment of titanium wire attached to a wire bar that was able to rest across the rim of the beaker to keep the piece suspended in the solution. We attached the negative cable of the power supply to the piece and the positive cable to a 12 gauge copper wire coiled in the solution.</p>
-<p>We ran the electroplating process once per day for several days and experimented with different levels of current. (We turned the voltage knob all the way up and allowed the amps setting to be the limiting factor.) Each piece was left in the solution with the power supply at a low current for 6 to 7 hours. [1] At 0.1 amps, most of the piece had plated (except for a small graphite-exposed spot) and had a thickness of about 0.5 mm. [2] The surface area of the second piece was somewhat larger, and a setting of 0.2 amps resulted in similar thickness. We suspect that some of the graphite paint had flaked off into the solution before it could be plated, resulting in black splotches. [3] The surface area of the third piece was similar to that of the first. We initially set the power supply to 0.5 amps for about 10 minutes to prevent the graphite paint from flaking, then to 0.25 amps for the remainder of the process. The resulting plated piece did not flake significantly, and had a thickness of around 1mm.</p>
-<p>After electroplating, the pieces had an appearance similar to that of [1]. Polishing the pieces with a wire brush connected to a rotary tool resulted in a shinier appearance, as seen with [3].</p>
-<p>Thanks to Ms. Manisco for allowing us to use the chemistry laboratory and providing supplies, and to Kye Shi and Hunter Whaples for helping set up the electroplating process.</p>
-<p><img alt="original leaves" src="../original-leaves.jpg" />
-<img alt="beaker" src="../beaker.jpg" />
-<img alt="hanging leaves" src="../hanging-leaves.jpg" />
-<img alt="final leaves" src="../leaves-final.png" /></p></div>
+<p>I usually leave my room door slightly ajar because I can never find my key and am always carrying things when I walk up to my door. However, after my longboard got stolen from outside my room I decided this wasn’t such a good idea. The obvious solution for opening my door was to install a biometric lock system. After consulting with Darian Joso and Christopher McElroy (who have done similar projects) I purchased the following materials:</p>
+<p><img alt="items1" src="../image004.jpg" /> 
+<img alt="items2" src="../image005.jpg" /> 
+<img alt="items3" src="../image006.jpg" /> </p>
+<p>I wired the fingerprint sensor to the OSOYOO nano like so:
+(picture from another person on amazon)</p>
+<p><img alt="osoyoo" src="../image008.jpg" /> </p>
+<p>There’s an Adafruit library online with code that can be used to run the scanner. I also bought the following attachment for the servo motor gear:</p>
+<p><img alt="shaft-coupler" src="../image010.jpg" /> </p>
+<p>Yes, unfortunately the shipping was 2x the cost of the part. After all that, it didn’t even fit the gear of the servo like it was supposed to. I ended up supergluing it on there. This part was key for getting a shaft coupled to the motor that could be taped to the doorknob.</p>
+<p>I merged the adafruit fingerprint code with some servo starter code (I’d be happy to send this to anyone) and uploaded it to the board. The nice thing about using a servo motor is that it can be powered from the “Arduino” board and doesn’t need extra power.</p>
+<p>The hardest part was probably mounting the servo to the door in a way that was temporary but sturdy. I tried several things that didn’t work. Eventually, I broke down a 3D printed a mount:</p>
+<p><img alt="mount" src="../image012.jpg" /> </p>
+<p>This worked really well with command strips. The whole setup plugs into the wall via a single usb plug. Here is a picture of the finished product:
+<img alt="setup" src="../image014.jpg" /> </p>
+<p>The finger print is mounted to the outside of the door via a command strip and the wires just go around the door.</p>
+<p><img alt="scanner" src="../image016.jpg" /> </p></div>
 	
         
     </div>
