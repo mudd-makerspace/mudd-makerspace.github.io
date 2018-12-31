@@ -4,6 +4,8 @@ Before using any tool, familiarize yourself with any relevant safety information
 
 ## Rapid Prototyping (3D Printing)
 
+At this time, we do not allow 3D printing as the makerspace cannot deal with the fumes from 3D printing. We are working to come up with an alternative.
+
 We have a [Ulitmaker 2 Extender+](https://ultimaker.com/en/products/ultimaker-2-plus) 3D printer for rapid prototyping needs. 
 
 
