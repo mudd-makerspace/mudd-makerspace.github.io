@@ -5,6 +5,7 @@ Below is a list of all of our supplies! If there is anything you would like that
 ##Supplies List
 | Part | Location | Are we out? |
 --- | --- | ---
+LimeSDR - Radio TX/RX | Contact Jacob Donenfeld to borrow | ---
 
 ##This page is under construction
 
