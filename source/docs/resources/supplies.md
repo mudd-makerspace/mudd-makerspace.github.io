@@ -6,6 +6,8 @@ Below is a list of all of our supplies! If there is anything you would like that
 | Part | Location | Are we out? 
 |--- | --- | ---
 |LimeSDR - Radio TX/RX | Contact Jacob Donenfeld to borrow | ---
+|RPLidar A1 | Bin in makerspace | No we have about 5
+
 
 ##This page is under construction
 
