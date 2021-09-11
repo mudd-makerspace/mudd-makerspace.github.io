@@ -1,110 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>None/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
-     <loc>None/resources/tools/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>None/resources/supplies/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>None/resources/project/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>None/resources/software/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>None/resources/mentor/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
     <url>
-     <loc>None/policies/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>None/tutorials/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>None/showcase/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>None/project-files/2017-fall/wok/wok_description/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>None/project-files/2018-spring/cute-compute-cluster/ccc/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>None/project-files/2018-spring/copperplating/copper-electroplating/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>None/project-files/2018-spring/biometric-lock/biometric-details/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>None/project-files/2018-spring/south-table/south-table/</loc>
-     <lastmod>2018-04-14</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>None</loc>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
     </url>
-    
-
 </urlset>
